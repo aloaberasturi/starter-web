@@ -1,9 +1,5 @@
-# Starter Web Repo
-<<<<<<< HEAD
-blabla bla 
-=======
-jlsdjflks
->>>>>>> simplechanges
+# Starter Web Repa 
+
 ## Introduction
 
 This repository is for showing how Git and GitHub work
