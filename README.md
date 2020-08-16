@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 This change is to cause a rebase conflict
 This is another change that will cause the conflict
+more conflicting changes in master
 
 this is another change in my feature branch
 ## Another section
