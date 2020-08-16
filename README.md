@@ -3,6 +3,10 @@
 ## Introduction
 lasdlfajsldfkjsald
 This repository is for showing how Git and GitHub work
+
+This change is to cause a rebase conflict
+This is another change that will cause the conflict
+
 this is another change in my feature branch
 ## Another section
 ## Change to stage
