@@ -8,6 +8,7 @@ This change is to cause a rebase conflict
 This is another change that will cause the conflict
 more conflicting changes in master
 
+looking for rebase conflicts
 this is another change in my feature branch
 ## Another section
 ## Change to stage
